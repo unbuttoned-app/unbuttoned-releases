@@ -1,0 +1,30 @@
+{
+  "/etc/issue.net": "Ubuntu 22.04.4 LTS",
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "-c"
+  ],
+  "fdroiddata": {
+    "commitId": "5d6e5c5792d2386bad1ab9448f125013f4905231",
+    "isDirty": true,
+    "modifiedFiles": [
+      "repo/.NOTE"
+    ],
+    "untrackedFiles": [
+      "metadata/com.example.unbuttoned.yml",
+      "repo/Unbuttoned-App.apk",
+      "repo/categories.txt",
+      "repo/icons/icon.png",
+      "repo/index-v1.jar",
+      "repo/index-v1.json",
+      "repo/index.css",
+      "repo/index.html",
+      "repo/index.jar",
+      "repo/index.png",
+      "repo/index.xml",
+      "tmp/apkcache.json"
+    ]
+  },
+  "startTimestamp": 1713346819000,
+  "subcommand": "update"
+}
