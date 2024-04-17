@@ -52,5 +52,31 @@
     "size": 9718627,
     "apkName": "Unbuttoned-App_{a1d5927}.apk",
     "added": 1713362408.77027
+  },
+  "Unbuttoned-App_a5892dd.apk": {
+    "hash": "3998a160bb42c72a0d5ddf3604893ad014987f379a92d87d5a6f5df8a512b4e6",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.example.unbuttoned.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.example.unbuttoned",
+    "versionCode": 1,
+    "name": "Unbuttoned",
+    "versionName": "1.0",
+    "minSdkVersion": 27,
+    "targetSdkVersion": 34,
+    "sig": "1d586060aefa1c44cbcb4275835bcce2",
+    "signer": "c2d72bef773df23828b5d15215604e0317001697e0225d3984ccf7e00baf2e8d",
+    "size": 9718627,
+    "apkName": "Unbuttoned-App_a5892dd.apk",
+    "added": 1713363566.239304
   }
 }
