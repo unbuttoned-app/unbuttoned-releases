@@ -1,0 +1,30 @@
+{
+  "METADATA_VERSION": 20001,
+  "allow_disabled_algorithms": false,
+  "Unbuttoned-App.apk": {
+    "hash": "6c0f8fcebfc257d9a26e075852e6aa64a341344ab2ae1f9fd96d09a5b209f031",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "com.example.unbuttoned.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.example.unbuttoned",
+    "versionCode": 1,
+    "name": "Unbuttoned",
+    "versionName": "1.0",
+    "minSdkVersion": 27,
+    "targetSdkVersion": 34,
+    "sig": "1d586060aefa1c44cbcb4275835bcce2",
+    "signer": "c2d72bef773df23828b5d15215604e0317001697e0225d3984ccf7e00baf2e8d",
+    "size": 9718627,
+    "apkName": "Unbuttoned-App.apk",
+    "added": 1713348332.929824
+  }
+}
